@@ -3,6 +3,8 @@
 ## Description
 The purpose of this assignment was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. It was built completely from scratch and deployed to Heroku. It followed the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
+Note: for this assignment the instructors provided the handlebars. They also provided models, BUT I chose to use my own models.
+
 ## Links
 [Heroku](https://radiant-river-51419.herokuapp.com/)
 
